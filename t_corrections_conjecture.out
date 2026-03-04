@@ -1,0 +1,124 @@
+1: t-corrector 0 (wt(n) - 1 = 0)
+Time elapsed: 0.04235100746154785
+2: t-corrector 0 (wt(n) - 1 = 0)
+Time elapsed: 0.04325294494628906
+3: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.043854713439941406
+4: t-corrector 0 (wt(n) - 1 = 0)
+Time elapsed: 0.04472184181213379
+5: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.04557061195373535
+6: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.046619415283203125
+7: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.04850196838378906
+8: t-corrector 0 (wt(n) - 1 = 0)
+Time elapsed: 0.050221920013427734
+9: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.05220675468444824
+10: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.054650068283081055
+11: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.05835676193237305
+12: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.06228756904602051
+13: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.06707000732421875
+14: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.07332348823547363
+15: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 0.17824816703796387
+16: t-corrector 0 (wt(n) - 1 = 0)
+Time elapsed: 0.18558621406555176
+17: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.19385480880737305
+18: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.20297551155090332
+19: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.2153339385986328
+20: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.2274017333984375
+21: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.24254775047302246
+22: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.2588169574737549
+23: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 0.3762340545654297
+24: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 0.3958759307861328
+25: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.4186437129974365
+26: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.44385695457458496
+27: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 0.569467306137085
+28: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 0.5993454456329346
+29: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 0.730971097946167
+30: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 0.8704845905303955
+31: t-corrector 4 (wt(n) - 1 = 4)
+Time elapsed: 8803.987742900848
+32: t-corrector 0 (wt(n) - 1 = 0)
+Time elapsed: 8804.028554916382
+33: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 8804.073653697968
+34: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 8804.12109041214
+35: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 8804.172610521317
+36: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 8804.229614496231
+37: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 8804.289703845978
+38: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 8804.354176998138
+39: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 8804.526208162308
+40: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 8804.601552248001
+41: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 8804.680743694305
+42: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 8804.765400648117
+43: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 8804.96623659134
+44: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 8805.068146705627
+45: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 8805.281267404556
+46: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 8805.505416631699
+47: t-corrector 4 (wt(n) - 1 = 4)
+Time elapsed: 17672.993297576904
+48: t-corrector 1 (wt(n) - 1 = 1)
+Time elapsed: 17673.113760232925
+49: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 17673.241736888885
+50: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 17673.37687253952
+51: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 17673.624181509018
+52: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 17673.775449037552
+53: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 17674.03707051277
+54: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 17674.307656288147
+55: t-corrector 4 (wt(n) - 1 = 4)
+Time elapsed: 26646.019201517105
+56: t-corrector 2 (wt(n) - 1 = 2)
+Time elapsed: 26646.205771446228
+57: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 26646.505276679993
+58: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 26646.814188957214
+59: t-corrector 4 (wt(n) - 1 = 4)
+Time elapsed: 35585.64083957672
+60: t-corrector 3 (wt(n) - 1 = 3)
+Time elapsed: 35585.97194766998
+61: t-corrector 4 (wt(n) - 1 = 4)
+Time elapsed: 44590.8452706337
+62: t-corrector 4 (wt(n) - 1 = 4)
+Time elapsed: 53502.4022769928
